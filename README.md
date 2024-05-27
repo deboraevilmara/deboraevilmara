@@ -1,3 +1,4 @@
 ## esse é meu perfil 🌸
-estou fazendo um curso no alura
-teste 1
+Repositário 1
+Curso do Alura
+Desenvolvendo na linguagem JavaScript
